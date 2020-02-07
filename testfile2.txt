@@ -1,0 +1,8 @@
+23|99|SELL|small potato|88.88|30
+24|98|BID|small potato|70.00
+25|97|BID|small potato|101.00
+26|90|BID|small potato|101.00
+27|42|BID|small potato|101.00
+28|96|BID|small potato|102.00
+29|90|BID|small potato|99.00
+30

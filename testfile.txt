@@ -1,0 +1,20 @@
+10|1|SELL|toaster_1|10.00|20
+12|8|BID|toaster_1|7.50
+13|5|BID|toaster_1|12.50
+15|8|SELL|tv_1|250.00|20
+16
+17|8|BID|toaster_1|20.00
+18|1|BID|tv_1|150.00
+19|3|BID|tv_1|200.00
+20
+21|3|BID|tv_1|300.00
+23|99|SELL|small potato|88.88|30
+24|98|BID|small potato|70.00
+25|97|BID|small potato|101.00
+26|90|BID|small potato|101.00
+27|96|BID|small potato|101.00
+28|96|BID|small potato|99.00
+30
+32|67|SELL|car|44.00|40
+33|4|BID|car|44.00
+40
